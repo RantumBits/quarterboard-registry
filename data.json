@@ -1,5 +1,5 @@
 {
- "built": "2026-07-24",
+ "built": "2026-07-31",
  "count": 87,
  "brands": [
   {
@@ -253,7 +253,7 @@
    "qualifier": "USA-line caps US-sewn; other items vary",
    "site": "https://www.ebbets.com",
    "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified_iso": "2026-07-29"
   },
   {
    "brand": "Ezra Arthur",
@@ -558,10 +558,10 @@
    "location": "Nantucket, MA",
    "state": "MA",
    "label": "line",
-   "qualifier": "Nantucket Reds line US-made; shop carries imported third-party brands",
+   "qualifier": "M Crest Collection US-made; classic Reds line imported",
    "site": "https://www.nantucketreds.com",
    "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified_iso": "2026-07-28"
   },
   {
    "brand": "Mystic Knotwork",
@@ -601,8 +601,8 @@
    "category": "Footwear",
    "location": "Chicago, IL",
    "state": "IL",
-   "label": "fully",
-   "qualifier": "Chicago and Maine production",
+   "label": "nuance",
+   "qualifier": "made in Chicago and Maine with domestic and imported materials",
    "site": "https://oakstreetbootmakers.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
@@ -656,8 +656,8 @@
    "category": "Footwear",
    "location": "Lewiston, ME",
    "state": "ME",
-   "label": "fully",
-   "qualifier": "handmade in Lewiston, in-house resole",
+   "label": "nuance",
+   "qualifier": "made-to-order built in Lewiston; in-stock pairs made there and elsewhere",
    "site": "https://www.quoddy.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
