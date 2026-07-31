@@ -1,6 +1,6 @@
 {
  "built": "2026-07-31",
- "count": 87,
+ "count": 89,
  "brands": [
   {
    "brand": "3sixteen",
@@ -520,6 +520,17 @@
    "verified_iso": "2026-07-07"
   },
   {
+   "brand": "Leather Works Minnesota",
+   "category": "Accessories (leather goods)",
+   "location": "St. Paul, MN",
+   "state": "MN",
+   "label": "fully",
+   "qualifier": "handmade in St. Paul; leather from US tanneries",
+   "site": "https://leatherworksminnesota.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-21"
+  },
+  {
    "brand": "Left Field NYC",
    "category": "Denim & Bottoms",
    "location": "Queens, NY",
@@ -914,6 +925,17 @@
    "site": "https://wescoboots.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Whalerknits",
+   "category": "Apparel (knitwear)",
+   "location": "Fall River, MA",
+   "state": "MA",
+   "label": "fully",
+   "qualifier": "knit, cut, and sewn in Fall River, MA",
+   "site": "https://whalerknits.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-28"
   },
   {
    "brand": "White's Boots",
