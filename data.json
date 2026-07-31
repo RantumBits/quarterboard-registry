@@ -1,6 +1,6 @@
 {
  "built": "2026-07-31",
- "count": 93,
+ "count": 98,
  "brands": [
   {
    "brand": "3sixteen",
@@ -45,6 +45,17 @@
    "site": "https://americanwoolen.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Arnie McNair",
+   "category": "Apparel",
+   "location": "Minnesota",
+   "state": "",
+   "label": "nuance",
+   "qualifier": "cut and sewn in the USA; some knitwear uses Italian cashmere yarn",
+   "site": "https://www.arnie-mcnair.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Ashland Leather",
@@ -111,6 +122,17 @@
    "site": "https://www.bladeandblue.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Buffalo Billfold Company",
+   "category": "Accessories (leather goods)",
+   "location": "Worthington, MN",
+   "state": "MN",
+   "label": "fully",
+   "qualifier": "hand-stitched in Worthington, MN since 1972",
+   "site": "https://buffalobillfoldcompany.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Columbiaknit",
@@ -254,6 +276,17 @@
    "site": "https://www.ebbets.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-29"
+  },
+  {
+   "brand": "Epperson Mountaineering",
+   "category": "Bags",
+   "location": "Los Angeles, CA",
+   "state": "CA",
+   "label": "fully",
+   "qualifier": "sewn in Los Angeles from Cordura and mil-spec webbing",
+   "site": "https://eppersonmountaineering.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Ezra Arthur",
@@ -540,6 +573,28 @@
    "site": "https://leftfieldnyc.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Loyal Stricklin",
+   "category": "Accessories (leather + waxed canvas)",
+   "location": "Nashville, TN",
+   "state": "TN",
+   "label": "nuance",
+   "qualifier": "assembled in Nashville from materials sourced worldwide",
+   "site": "https://loyalstricklin.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
+  },
+  {
+   "brand": "MAKR",
+   "category": "Accessories (leather goods)",
+   "location": "St. Augustine, FL",
+   "state": "FL",
+   "label": "fully",
+   "qualifier": "made in St. Augustine, FL; Horween leather",
+   "site": "https://makr.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Maximum Henry",
