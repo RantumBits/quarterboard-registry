@@ -1,6 +1,6 @@
 {
  "built": "2026-07-31",
- "count": 89,
+ "count": 93,
  "brands": [
   {
    "brand": "3sixteen",
@@ -663,6 +663,17 @@
    "verified_iso": "2026-07-07"
   },
   {
+   "brand": "Queen City Footwear",
+   "category": "Footwear",
+   "location": "Williston, VT",
+   "state": "VT",
+   "label": "fully",
+   "qualifier": "made in-house at their Vermont factory",
+   "site": "https://queencityfootwear.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
+  },
+  {
    "brand": "Quoddy",
    "category": "Footwear",
    "location": "Lewiston, ME",
@@ -817,6 +828,17 @@
    "verified_iso": "2026-07-07"
   },
   {
+   "brand": "Soft Star Shoes",
+   "category": "Footwear",
+   "location": "Philomath, OR",
+   "state": "OR",
+   "label": "fully",
+   "qualifier": "handmade in Philomath, OR",
+   "site": "https://www.softstarshoes.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
+  },
+  {
    "brand": "Steele Canvas Basket Corp",
    "category": "Coastal Prep & Accessories",
    "location": "Wilmington, MA",
@@ -870,6 +892,17 @@
    "site": "https://www.tellason.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "The Ampal Creative",
+   "category": "Hats & Caps",
+   "location": "Los Angeles, CA",
+   "state": "CA",
+   "label": "fully",
+   "qualifier": "made in Los Angeles, CA",
+   "site": "https://www.theampalcreative.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Town View Leather",
@@ -947,6 +980,17 @@
    "site": "https://whitesboots.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "WiesMade",
+   "category": "Apparel (denim & knitwear)",
+   "location": "Los Angeles, CA",
+   "state": "CA",
+   "label": "fully",
+   "qualifier": "American-grown cotton, milled and sewn in the USA",
+   "site": "https://wiesmade.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Wigwam Socks",
