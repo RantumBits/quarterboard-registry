@@ -1,6 +1,6 @@
 {
  "built": "2026-07-31",
- "count": 98,
+ "count": 101,
  "brands": [
   {
    "brand": "3sixteen",
@@ -575,6 +575,17 @@
    "verified_iso": "2026-07-07"
   },
   {
+   "brand": "Lindquist Object",
+   "category": "Accessories (leather goods)",
+   "location": "Providence, RI",
+   "state": "RI",
+   "label": "fully",
+   "qualifier": "made in Providence, RI",
+   "site": "https://lindquist-object.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
+  },
+  {
    "brand": "Loyal Stricklin",
    "category": "Accessories (leather + waxed canvas)",
    "location": "Nashville, TN",
@@ -663,6 +674,17 @@
    "verified_iso": "2026-07-07"
   },
   {
+   "brand": "North Star Leather Co.",
+   "category": "Accessories (leather goods)",
+   "location": "Ruby, SC",
+   "state": "SC",
+   "label": "fully",
+   "qualifier": "made in Ruby, SC since 1969; Horween leather",
+   "site": "https://www.nstarleather.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
+  },
+  {
    "brand": "Oak Street Bootmakers",
    "category": "Footwear",
    "location": "Chicago, IL",
@@ -672,6 +694,17 @@
    "site": "https://oakstreetbootmakers.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Oldspeed MFG",
+   "category": "Footwear",
+   "location": "Media, PA",
+   "state": "PA",
+   "label": "nuance",
+   "qualifier": "built by hand in Media, PA; some components sourced overseas",
+   "site": "https://oldspeedmfg.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Opie Way",
