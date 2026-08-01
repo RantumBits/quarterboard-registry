@@ -1,6 +1,6 @@
 {
  "built": "2026-07-31",
- "count": 105,
+ "count": 109,
  "brands": [
   {
    "brand": "3sixteen",
@@ -243,6 +243,17 @@
    "site": "https://dehen1920.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Dehner (The Dehner Company)",
+   "category": "Footwear",
+   "location": "Omaha, NE",
+   "state": "NE",
+   "label": "fully",
+   "qualifier": "made in Omaha, NE since 1875",
+   "site": "https://dehner.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Diamond Gusset Jean Co.",
@@ -507,6 +518,17 @@
    "site": "https://www.hollowsleather.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Imogene + Willie",
+   "category": "Denim & Bottoms",
+   "location": "Nashville, TN",
+   "state": "TN",
+   "label": "fully",
+   "qualifier": "all clothing sewn in their own Nashville sewing room",
+   "site": "https://imogeneandwillie.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "JK Boots",
@@ -905,6 +927,17 @@
    "verified_iso": "2026-07-07"
   },
   {
+   "brand": "Samuel Snider",
+   "category": "Apparel (menswear)",
+   "location": "New York, NY",
+   "state": "NY",
+   "label": "line",
+   "qualifier": "woven garments made in New York; knitwear made in Wales",
+   "site": "https://samuelsnider.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
+  },
+  {
    "brand": "Sandlot Goods",
    "category": "Accessories (leather goods)",
    "location": "Kansas City, MO",
@@ -1033,6 +1066,17 @@
    "label": "fully",
    "qualifier": "made in Los Angeles, CA",
    "site": "https://www.theampalcreative.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
+  },
+  {
+   "brand": "Tom Bihn",
+   "category": "Bags & Packs",
+   "location": "Seattle, WA",
+   "state": "WA",
+   "label": "line",
+   "qualifier": "some bags sewn in Seattle, others by a partner in Vietnam; check per item",
+   "site": "https://www.tombihn.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-31"
   },
