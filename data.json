@@ -1,6 +1,6 @@
 {
  "built": "2026-07-31",
- "count": 101,
+ "count": 103,
  "brands": [
   {
    "brand": "3sixteen",
@@ -122,6 +122,17 @@
    "site": "https://www.bladeandblue.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Bradley Mountain",
+   "category": "Bags",
+   "location": "San Diego, CA",
+   "state": "CA",
+   "label": "line",
+   "qualifier": "bags US-made in San Diego; tees and merch imported",
+   "site": "https://www.bradleymountain.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Buffalo Billfold Company",
@@ -870,6 +881,17 @@
    "site": "https://russellmoccasin.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Sandlot Goods",
+   "category": "Accessories (leather goods)",
+   "location": "Kansas City, MO",
+   "state": "MO",
+   "label": "line",
+   "qualifier": "own leather cut and sewn in Kansas City; partner hats are not",
+   "site": "https://sandlotgoods.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "SAS Shoes",
