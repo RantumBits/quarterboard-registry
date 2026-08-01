@@ -1,6 +1,6 @@
 {
  "built": "2026-07-31",
- "count": 103,
+ "count": 105,
  "brands": [
   {
    "brand": "3sixteen",
@@ -122,6 +122,17 @@
    "site": "https://www.bladeandblue.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Bonicel Denim",
+   "category": "Denim",
+   "location": "Kansas City, MO",
+   "state": "MO",
+   "label": "fully",
+   "qualifier": "cut and sewn in Los Angeles, finished in Kansas City",
+   "site": "https://www.boniceldenim.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Bradley Mountain",
@@ -551,6 +562,17 @@
    "site": "https://lcking.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "Lady White Co.",
+   "category": "Knitwear & Rugby",
+   "location": "Los Angeles, CA",
+   "state": "CA",
+   "label": "nuance",
+   "qualifier": "cut and sewn in Los Angeles; fabric from Japan",
+   "site": "https://ladywhiteco.com",
+   "verified": "Jul 2026",
+   "verified_iso": "2026-07-31"
   },
   {
    "brand": "Leather Man Ltd / Eliza B",
