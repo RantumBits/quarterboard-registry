@@ -1,5 +1,5 @@
 {
- "built": "2026-07-31",
+ "built": "2026-08-03",
  "count": 109,
  "brands": [
   {
@@ -282,8 +282,8 @@
    "category": "Bags & Packs",
    "location": "Duluth, MN",
    "state": "MN",
-   "label": "fully",
-   "qualifier": "own-made packs handmade in Duluth since 1882",
+   "label": "line",
+   "qualifier": "own-made packs handmade in Duluth since 1882; store also stocks brands it does not make",
    "site": "https://www.duluthpack.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
@@ -1163,7 +1163,7 @@
    "location": "Los Angeles, CA",
    "state": "CA",
    "label": "fully",
-   "qualifier": "American-grown cotton, milled and sewn in the USA",
+   "qualifier": "cotton milled at Mount Vernon and Vidalia; cut and sewn in Los Angeles",
    "site": "https://wiesmade.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-31"
