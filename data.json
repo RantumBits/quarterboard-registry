@@ -1,17 +1,17 @@
 {
- "built": "2026-08-03",
- "count": 109,
+ "built": "2026-08-17",
+ "count": 110,
  "brands": [
   {
    "brand": "3sixteen",
    "category": "Denim & Bottoms",
    "location": "New York, NY",
    "state": "NY",
-   "label": "nuance",
-   "qualifier": "US cut and sewn, Japanese selvedge fabric",
+   "label": "line",
+   "qualifier": "denim, tees and collabs made in the USA from Japanese selvedge; shirts and outerwear made in India and Portugal",
    "site": "https://www.3sixteen.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Amana Woolen Mill",
@@ -23,6 +23,17 @@
    "site": "https://amanawoolenmill.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
+  },
+  {
+   "brand": "American Giant",
+   "category": "Apparel",
+   "location": "Los Angeles, CA",
+   "state": "CA",
+   "label": "line",
+   "qualifier": "hoodies, sweats and tees made in Los Angeles and Middlesex, NC; origin is not stated on every item",
+   "site": "https://american-giant.com",
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "American Trench",
@@ -109,8 +120,8 @@
    "label": "fully",
    "qualifier": "made in Amish Pennsylvania workshops",
    "site": "https://www.billykirk.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-06"
   },
   {
    "brand": "Blade + Blue",
@@ -219,8 +230,8 @@
    "label": "fully",
    "qualifier": "own Chicago factory, US denim",
    "site": "https://dearborndenim.us",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-06"
   },
   {
    "brand": "DEFY Bags",
@@ -263,8 +274,8 @@
    "label": "nuance",
    "qualifier": "made in USA with USA and imported materials (their wording)",
    "site": "https://gusset.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Don't Mourn, Organize!",
@@ -305,10 +316,10 @@
    "location": "Seattle, WA",
    "state": "WA",
    "label": "line",
-   "qualifier": "USA-line caps US-sewn; other items vary",
+   "qualifier": "some wool caps US-sewn; origin varies cap by cap, denim line made in China",
    "site": "https://www.ebbets.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-29"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-05"
   },
   {
    "brand": "Epperson Mountaineering",
@@ -395,8 +406,8 @@
    "label": "line",
    "qualifier": "own goods US-made; site also stocks other brands made abroad",
    "site": "https://freenotecloth.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Frost River",
@@ -439,8 +450,8 @@
    "label": "nuance",
    "qualifier": "built in the USA with domestic and imported materials (their wording)",
    "site": "https://www.gokeyusa.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-06"
   },
   {
    "brand": "Goodwear USA",
@@ -461,8 +472,8 @@
    "label": "line",
    "qualifier": "hoodies sewn in Los Angeles; tees cut and sewn in Canada",
    "site": "https://greasepointworkwear.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Gustin",
@@ -470,10 +481,10 @@
    "location": "San Francisco, CA",
    "state": "CA",
    "label": "line",
-   "qualifier": "core line US-made; preorder model",
+   "qualifier": "95% of what they sell is sewn in the USA (their wording), from globally sourced fabric; preorder model",
    "site": "https://www.weargustin.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Hamilton Shirts",
@@ -494,8 +505,8 @@
    "label": "line",
    "qualifier": "Seattle shop does custom work; most leather made in Mexico, canvas in India",
    "site": "https://www.hardmill.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-06"
   },
   {
    "brand": "Hertling USA",
@@ -505,8 +516,8 @@
    "label": "nuance",
    "qualifier": "tailored in the USA; some wool milled in Italy",
    "site": "https://www.hertlingusa.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Hollows Leather",
@@ -560,8 +571,8 @@
    "label": "nuance",
    "qualifier": "sewn in Los Angeles, Japanese fabric",
    "site": "https://kato-brand.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Kiel James Patrick (KJP)",
@@ -571,8 +582,8 @@
    "label": "line",
    "qualifier": "US-made line; check origin per item",
    "site": "https://kieljamespatrick.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "L.C. King (Pointer Brand)",
@@ -626,8 +637,8 @@
    "label": "line",
    "qualifier": "core goods US cut and sewn; check per item",
    "site": "https://leftfieldnyc.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Lindquist Object",
@@ -681,8 +692,8 @@
    "label": "fully",
    "qualifier": "small family-run US production",
    "site": "https://mercerandsons.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-05"
   },
   {
    "brand": "Murray's Toggery Shop",
@@ -802,8 +813,8 @@
    "label": "fully",
    "qualifier": "sewn in Oregon since 1989",
    "site": "https://www.prisonblues.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Queen City Footwear",
@@ -835,8 +846,8 @@
    "label": "line",
    "qualifier": "own goods made in California; site also stocks imported brands",
    "site": "https://railcarfinegoods.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Raleigh Denim Workshop",
@@ -846,8 +857,8 @@
    "label": "fully",
    "qualifier": "hand-sewn in the Raleigh workshop",
    "site": "https://raleighdenim.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Rancourt & Co.",
@@ -868,8 +879,8 @@
    "label": "fully",
    "qualifier": "NYC Garment District",
    "site": "https://randysgarments.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Red Clouds Collective",
@@ -890,8 +901,8 @@
    "label": "nuance",
    "qualifier": "sewn in Los Angeles; some components made in Japan",
    "site": "https://www.rogueterritory.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Round House",
@@ -912,8 +923,8 @@
    "label": "fully",
    "qualifier": "own LA workshop, vintage machinery",
    "site": "https://www.runaboutgoods.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Russell Moccasin Co.",
@@ -987,10 +998,10 @@
    "location": "Richmond, VA",
    "state": "VA",
    "label": "nuance",
-   "qualifier": "sewn in Richmond, VA; denim woven in Japan",
+   "qualifier": "sewn in Richmond, VA; denim woven in Japan and Italy",
    "site": "https://shockoeatelier.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "Soft Star Shoes",
@@ -1033,8 +1044,8 @@
    "label": "line",
    "qualifier": "Maine-woven blankets; some throws made in Peru, Italy and India",
    "site": "https://swansislandcompany.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-06"
   },
   {
    "brand": "Tanner Goods",
@@ -1052,11 +1063,11 @@
    "category": "Denim & Bottoms",
    "location": "San Francisco, CA",
    "state": "CA",
-   "label": "fully",
-   "qualifier": null,
+   "label": "nuance",
+   "qualifier": "cut and sewn in San Francisco; selvedge denim woven in Japan by Kaihara",
    "site": "https://www.tellason.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-17"
   },
   {
    "brand": "The Ampal Creative",
@@ -1165,8 +1176,8 @@
    "label": "fully",
    "qualifier": "cotton milled at Mount Vernon and Vidalia; cut and sewn in Los Angeles",
    "site": "https://wiesmade.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-31"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-04"
   },
   {
    "brand": "Wigwam Socks",
