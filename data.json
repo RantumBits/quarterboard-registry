@@ -1,5 +1,5 @@
 {
- "built": "2026-08-17",
+ "built": "2026-08-19",
  "count": 110,
  "brands": [
   {
@@ -8,10 +8,10 @@
    "location": "New York, NY",
    "state": "NY",
    "label": "line",
-   "qualifier": "denim, tees and collabs made in the USA from Japanese selvedge; shirts and outerwear made in India and Portugal",
+   "qualifier": "jeans, denim jackets and tees US-made from Japanese selvedge; shirts made in India, Portugal or Peru; most other outerwear imported",
    "site": "https://www.3sixteen.com",
    "verified": "Aug 2026",
-   "verified_iso": "2026-08-17"
+   "verified_iso": "2026-08-19"
   },
   {
    "brand": "Amana Woolen Mill",
@@ -54,8 +54,8 @@
    "label": "fully",
    "qualifier": "woven in their own Connecticut mill",
    "site": "https://americanwoolen.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-18"
   },
   {
    "brand": "Arnie McNair",
@@ -517,7 +517,7 @@
    "qualifier": "tailored in the USA; some wool milled in Italy",
    "site": "https://www.hertlingusa.com",
    "verified": "Aug 2026",
-   "verified_iso": "2026-08-17"
+   "verified_iso": "2026-08-18"
   },
   {
    "brand": "Hollows Leather",
@@ -722,11 +722,11 @@
    "category": "Shirting",
    "location": "Fall River, MA",
    "state": "MA",
-   "label": "fully",
-   "qualifier": "same Fall River factory since 1933",
+   "label": "nuance",
+   "qualifier": "sewn in Fall River since 1933; linen milled in Czechia",
    "site": "https://newenglandshirtco.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Aug 2026",
+   "verified_iso": "2026-08-18"
   },
   {
    "brand": "Nicks Handmade Boots",
