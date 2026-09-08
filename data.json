@@ -1,5 +1,5 @@
 {
- "built": "2026-09-01",
+ "built": "2026-09-08",
  "count": 110,
  "brands": [
   {
@@ -591,7 +591,7 @@
    "location": "Bristol, TN",
    "state": "TN",
    "label": "nuance",
-   "qualifier": "cut and sewn in Bristol, TN; some denim woven in Japan",
+   "qualifier": "cut and sewn in Bristol, TN; some denim woven in Japan. STATUS UNVERIFIED as of Sep 8, 2026: entire catalogue shows zero purchasable variants and every dated surface stops in mid-2024",
    "site": "https://lcking.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
@@ -612,8 +612,8 @@
    "category": "Coastal Prep & Accessories",
    "location": "Essex, CT",
    "state": "CT",
-   "label": "fully",
-   "qualifier": "made in Essex, CT",
+   "label": "nuance",
+   "qualifier": "Essex, CT workshop; the \"made in America\" line is site-wide text that also renders on a 404 page, and individual product pages carry no origin statement",
    "site": "https://www.elizab.com",
    "verified": "Jul 2026",
    "verified_iso": "2026-07-07"
