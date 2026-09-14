@@ -1,5 +1,5 @@
 {
- "built": "2026-09-09",
+ "built": "2026-09-14",
  "count": 110,
  "brands": [
   {
@@ -41,10 +41,10 @@
    "location": "Ardmore, PA",
    "state": "PA",
    "label": "line",
-   "qualifier": "own-brand goods US-made; site carries guest brands",
+   "qualifier": "own-brand goods US-made from yarn spun in Scotland and Italy; site carries guest brands",
    "site": "https://americantrench.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "American Woolen Co.",
@@ -98,8 +98,8 @@
    "label": "line",
    "qualifier": "dedicated Made in USA collection; check per item",
    "site": "https://ballandbuck.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Bemidji Woolen Mills",
@@ -109,8 +109,8 @@
    "label": "line",
    "qualifier": "house line sewn in Bemidji; store also resells imports",
    "site": "https://www.bemidjiwoolenmills.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Billykirk",
@@ -131,8 +131,8 @@
    "label": "line",
    "qualifier": "most shirts SF Bay Area sewn; check per item",
    "site": "https://www.bladeandblue.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Bonicel Denim",
@@ -175,8 +175,8 @@
    "label": "fully",
    "qualifier": "knit, cut, and sewn in one Portland factory",
    "site": "https://usa-wear.com/ostore/",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Corter Leather",
@@ -208,8 +208,8 @@
    "label": "fully",
    "qualifier": "made in Seattle since 1974",
    "site": "https://crescentdownworks.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Darn Tough Vermont",
@@ -249,11 +249,11 @@
    "category": "Knitwear & Rugby",
    "location": "Portland, OR",
    "state": "OR",
-   "label": "fully",
-   "qualifier": "own Portland factory since 1920",
+   "label": "nuance",
+   "qualifier": "made in their own Portland factory since 1920; much of the cloth is milled in Scotland, the UK, Japan and Portugal",
    "site": "https://dehen1920.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Dehner (The Dehner Company)",
@@ -307,8 +307,8 @@
    "label": "line",
    "qualifier": "mocs handsewn in Lewiston; socks and some styles made abroad",
    "site": "https://easymocs.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Ebbets Field Flannels",
@@ -393,10 +393,10 @@
    "location": "Seattle, WA",
    "state": "WA",
    "label": "line",
-   "qualifier": "own goods made in Seattle; socks made in Japan",
+   "qualifier": "own goods sewn in Seattle from cloth milled in Scotland and Portugal; socks made in Japan",
    "site": "https://www.freemanseattle.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Freenote Cloth",
@@ -425,22 +425,22 @@
    "category": "Outerwear & Wool",
    "location": "Portland, OR",
    "state": "OR",
-   "label": "line",
-   "qualifier": "US-sewn small batch; check per item",
+   "label": "nuance",
+   "qualifier": "cut and sewn in Portland and Los Angeles; selvedge denim woven by Nihon Menpu in Japan",
    "site": "https://ginewusa.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Gitman Vintage",
    "category": "Shirting",
    "location": "Ashland, PA",
    "state": "PA",
-   "label": "fully",
-   "qualifier": "every shirt sewn in Ashland, PA since 1932",
+   "label": "nuance",
+   "qualifier": "sewn in Ashland, PA since 1932 and at a sister factory in Rochester, NY; much of the cloth is woven in Japan, Italy, India and Portugal",
    "site": "https://gitmanvintage.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Gokey USA",
@@ -459,10 +459,10 @@
    "location": "Essex, MA",
    "state": "MA",
    "label": "fully",
-   "qualifier": "US cotton, knit and sewn here since 1983",
+   "qualifier": "knit and sewn in Essex, MA since 1983",
    "site": "https://www.goodwear.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Grease Point Workwear",
@@ -546,11 +546,11 @@
    "category": "Footwear",
    "location": "Spokane, WA",
    "state": "WA",
-   "label": "fully",
-   "qualifier": "handmade in Spokane",
+   "label": "line",
+   "qualifier": "work and fire boots handmade in Spokane; the cowboy line is built in Leon, Mexico",
    "site": "https://jkboots.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Johnson Woolen Mills",
@@ -560,8 +560,8 @@
    "label": "line",
    "qualifier": "own garments cut and sewn in Vermont since 1842",
    "site": "https://www.johnsonwoolenmills.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "KATO (Hiroshi Kato)",
@@ -593,8 +593,8 @@
    "label": "nuance",
    "qualifier": "cut and sewn in Bristol, TN; some denim woven in Japan. STATUS UNVERIFIED as of Sep 8, 2026: entire catalogue shows zero purchasable variants and every dated surface stops in mid-2024",
    "site": "https://lcking.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Lady White Co.",
@@ -734,10 +734,10 @@
    "location": "Spokane, WA",
    "state": "WA",
    "label": "fully",
-   "qualifier": "handmade in Spokane, US materials",
+   "qualifier": "handmade from start to finish in Spokane",
    "site": "https://nicksboots.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "North Star Leather Co.",
@@ -758,8 +758,8 @@
    "label": "nuance",
    "qualifier": "made in Chicago and Maine with domestic and imported materials",
    "site": "https://oakstreetbootmakers.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Oldspeed MFG",
@@ -802,8 +802,8 @@
    "label": "line",
    "qualifier": "custom boots built in New Hampshire; stock line made in Europe",
    "site": "https://limmerboots.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Prison Blues",
@@ -868,8 +868,8 @@
    "label": "nuance",
    "qualifier": "made in Maine with heritage domestic and imported materials (their wording)",
    "site": "https://www.rancourtandcompany.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Randy's Garments",
@@ -912,8 +912,8 @@
    "label": "line",
    "qualifier": "flagship jeans and overalls Oklahoma-sewn since 1903",
    "site": "https://www.round-house.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Runabout Goods",
@@ -931,11 +931,11 @@
    "category": "Footwear",
    "location": "Berlin, WI",
    "state": "WI",
-   "label": "fully",
-   "qualifier": "bench-made in Wisconsin since 1898",
+   "label": "nuance",
+   "qualifier": "bench-made in Wisconsin since 1898; some soles imported from England and some canvas woven in Scotland",
    "site": "https://russellmoccasin.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Samuel Snider",
@@ -978,8 +978,8 @@
    "label": "line",
    "qualifier": "own US line only; many items are \"Designed in Texas, Imported\"",
    "site": "https://schaeferoutfitter.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Sea Bags",
@@ -1097,10 +1097,10 @@
    "location": "Dexter, ME",
    "state": "ME",
    "label": "fully",
-   "qualifier": "one-man workshop, ex-Dexter Shoe",
+   "qualifier": "handsewn in Dexter, Maine, second generation",
    "site": "https://www.townviewleather.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Truman Boot Co.",
@@ -1121,8 +1121,8 @@
    "label": "nuance",
    "qualifier": "cut and sewn in Vermont; fabric sourced elsewhere",
    "site": "https://www.vermontflannel.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "WeatherWool",
@@ -1132,8 +1132,8 @@
    "label": "fully",
    "qualifier": "100% US fiber, weaving, and sewing",
    "site": "https://weatherwool.com",
-   "verified": "Jul 2026",
-   "verified_iso": "2026-07-07"
+   "verified": "Sep 2026",
+   "verified_iso": "2026-09-14"
   },
   {
    "brand": "Wesco",
