@@ -1,5 +1,5 @@
 {
- "built": "2026-09-17",
+ "built": "2026-09-22",
  "count": 110,
  "brands": [
   {
@@ -786,13 +786,13 @@
   {
    "brand": "Origin USA",
    "category": "Footwear",
-   "location": "Wilton, ME",
+   "location": "Farmington, ME",
    "state": "ME",
    "label": "fully",
-   "qualifier": "made to order in Wilton, Maine",
+   "qualifier": "made to order in Farmington, Maine",
    "site": "https://originusa.com",
    "verified": "Sep 2026",
-   "verified_iso": "2026-09-17"
+   "verified_iso": "2026-09-22"
   },
   {
    "brand": "Peter Limmer & Sons",
